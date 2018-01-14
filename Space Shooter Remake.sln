@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Shooter Remake", "Space Shooter Remake.csproj", "{5E7BD963-F532-5E0C-AA94-1022CA9C72EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Shooter Remake.Plugins", "Space Shooter Remake.Plugins.csproj", "{8610A5B1-4D7E-67CD-FE8C-BCFE266517D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Shooter Remake.Editor.Plugins", "Space Shooter Remake.Editor.Plugins.csproj", "{23C888BD-54B1-2DDC-CAF0-67087FB5F1D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E7BD963-F532-5E0C-AA94-1022CA9C72EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7BD963-F532-5E0C-AA94-1022CA9C72EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7BD963-F532-5E0C-AA94-1022CA9C72EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7BD963-F532-5E0C-AA94-1022CA9C72EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8610A5B1-4D7E-67CD-FE8C-BCFE266517D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8610A5B1-4D7E-67CD-FE8C-BCFE266517D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8610A5B1-4D7E-67CD-FE8C-BCFE266517D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8610A5B1-4D7E-67CD-FE8C-BCFE266517D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C888BD-54B1-2DDC-CAF0-67087FB5F1D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C888BD-54B1-2DDC-CAF0-67087FB5F1D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C888BD-54B1-2DDC-CAF0-67087FB5F1D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C888BD-54B1-2DDC-CAF0-67087FB5F1D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
